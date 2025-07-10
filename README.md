@@ -1,48 +1,74 @@
-t# 👋 Hey, I'm Faizan (aka Furk-st)
+#  Hi, I’m Faizan-ur-Rehman Khokhar
 
-🔐 **Cybersecurity Researcher | Ethical Hacker | Blue Team Enthusiast**  
-📍 Based in Pakistan | 🌍 Open to remote roles globally
-
----
-
-### 💡 About Me
-
-I’m a Certified Ethical Hacker (CEH) and cybersecurity engineer passionate about offensive and defensive security. My journey includes working with:
-- Embedded systems and firmware exploitation
-- Vulnerability research and PoC development
-- Android reverse engineering
-- IoT, router, and hardware security testing
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=12F7FF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Engineer+%7C+DevSecOps+Trainer+%7C+Firmware+Hacker;DevOps+Architect+%7C+Hardware+Security+Enthusiast;Snort+ML+%7C+Wazuh+%7C+Kubernetes+%7C+Docker+Expert" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧠 My Skill Stack
+### Who Am I?
 
-- 🔍 **Penetration Testing** (Android, IoT, Web)
-- 📡 **Wi-Fi Exploitation** & Rogue AP Attacks
-- 📦 **Firmware Analysis** & Reverse Engineering
-- 🛡️ **Vulnerability Assessment** | PoC Testing | Mitigation
-- 💻 **Languages**: Python, Bash, C++, Arduino
+I’m a **Cybersecurity Engineer**, **DevOps & DevSecOps Trainer**, and **Hardware Security Researcher** — passionate about building secure, scalable, and observable infrastructures.
 
----
-
-### 📂 Featured Projects
-
-- [`Dhokha-Fi`](https://github.com/Furk-st/Dhokha-Fi) — Advanced Wi-Fi pentesting & auditing toolkit for ethical hacking.
-- [`aspx-reverse-shell`](https://github.com/Furk-st/aspx-reverse-shell) — ASP.NET-based reverse shell for Windows environments.
-- [`Furk-st`](https://github.com/Furk-st/Furk-st) — My GitHub profile config & pinned projects.
-
----
-- Exploring firmware bypass methods on Android & IoT devices  
-- Building custom firmware testing environments using virtualization  
-- Writing & automating exploit scripts  
-- Creating CTF challenges focused on device-level security
-
-### 📫 Let’s Connect
-
-Reach me on **[LinkedIn](https://www.linkedin.com/in/faizan-ur-rehman-khokhar-228455228/)** or drop an email:  
-📧 `faizanmazhr3632@gmail.com`
+-  Teaching and building **DevOps pipelines** using:
+  - Git, GitHub Actions, Docker, Kubernetes, Grafana, Loki, Promtail
+-  Integrating **Security by Design** into DevOps via:
+  - Vulnerability Scanning, SIEMs (Wazuh), IDS (Suricata, Snort3), EDR & WAF
+-  Researching:
+  - Firmware tampering, embedded device exploits, bootloader bypass, USB HID payloads
+-  Helping organizations with cloud-native security architectures and CTF challenge design
 
 ---
 
-_“Trust is a weakness. Mitigation is the strategy.”_
+###  Current Focus Areas
+
+| Category        | Tools / Domains |
+|----------------|-----------------|
+|  DevOps       | GitHub, Git, Docker, Kubernetes, Helm |
+|  DevSecOps   | Wazuh, Suricata, ClamAV, GitLab CI/CD, Fail2Ban |
+|  Observability | Loki, Promtail, Grafana, cAdvisor |
+|  Security ML  | Snort 3 + ML Plugin (TensorFlow), anomaly detection |
+|  Hardware     | RP2040 (TinyUSB), Android rooting, Secure Boot bypass |
+
+---
+
+###  Trainer & Mentor
+
+I actively mentor professionals and students in:
+
+- DevOps & DevSecOps best practices
+- CI/CD security pipelines
+- Real-world security lab deployments
+- Blue-teaming architecture using lightweight VMs
+
+
+---
+
+
+---
+
+###  Toolbox
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+![Loki](https://img.shields.io/badge/-Loki-0B0C10?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
+![Snort](https://img.shields.io/badge/-Snort-CC0000?style=flat&logo=snort)
+![ESP32](https://img.shields.io/badge/-ESP32-303030?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi)
+
+---
+
+###  Let's Connect
+
+-  Website / Blog: *Coming soon...*
+-  IG Photography: [@jahane_furk](https://instagram.com/jahane_furk)
+-  Email: `faizanmazhr3632@gmail.com`
+-  https://medium.com/@faizanmazhr3632
+
+---
+
