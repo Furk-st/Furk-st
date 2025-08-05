@@ -20,11 +20,11 @@ I’m a **Cybersecurity Engineer**, **DevOps & DevSecOps Trainer**, and **Hardwa
 
 ---
 
-###  Current Focus Areas
+###  Current working Areas
 
 | Category        | Tools / Domains |
 |----------------|-----------------|
-|  DevOps       | GitHub, Git, Docker, Kubernetes, Helm |
+|  DevOps       | GitHub, Git, Docker, Kubernetes, Helm, Jenkins |
 |  DevSecOps   | Wazuh, Suricata, ClamAV, GitLab CI/CD, Fail2Ban |
 |  Observability | Loki, Promtail, Grafana, cAdvisor |
 |  Security ML  | Snort 3 + ML Plugin (TensorFlow), anomaly detection |
